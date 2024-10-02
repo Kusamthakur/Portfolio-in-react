@@ -179,7 +179,7 @@ export const projects = [
     date: "sep 2024 - sep 2024",
     description:
       "chat app project, built using the MERN stack (MongoDB, Express, React, Node.js), enables real-time messaging with features like private chats, group messaging, and user authentication. MongoDB stores user data and chat history, Express serves the backend API, React powers the user interface for a dynamic chat experience, and Node.js handles real-time communication via WebSocket or similar technologies like Socket.IO..",
-    image: {chatApp},
+    image: "https://i.ytimg.com/vi/11eJGs4oBuI/hq720.jpg?sqp=-oaymwEpCNAFEJQDSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIHBACGAYgATgBQAE=&rs=AOn4CLAIHCG5Zj0gly547XR6hibu7AQYdw",
     tags: [
       "React Js",
       "MongoDB",
@@ -188,6 +188,6 @@ export const projects = [
       "socket.IO"
     ],
     category: "web app",
-    github: "https://github.com/Kusamthakur/chat_app_using_mern",
+    github: "https://github.com/Kusamthakur/chat-app_using_mern",
   }
 ]
