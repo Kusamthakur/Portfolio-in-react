@@ -1,4 +1,4 @@
-import chatApp from '../images/image.png'
+
 
 
 export const Bio = {
@@ -162,7 +162,7 @@ export const projects = [
     description:
       "JobPortal is a web application that connects job seekers with potential employers. JobSeekers can create profiles, upload resumes, and search for job openings. Employers Can create company profiles, post job openings, and search for candidates.",
     image:
-      "https://play-lh.googleusercontent.com/7y6gd1TKP4skySj-zI3KUs9uw9bpC99EOQNKa6BefSUHzzesFpIex3pDXWCCDTYywLM",
+      "https://i.ytimg.com/vi/NeebP0DFk-A/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIHBACGAYgATgBQAE=&rs=AOn4CLBx87ucMu2wIbLH18eKoHCvN-P_Fw",
     tags: [
       "React Js",
       "MongoDB",
