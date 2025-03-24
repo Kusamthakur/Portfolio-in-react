@@ -13,7 +13,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Kusamthakur",
   resume:
-    "https://drive.google.com/file/d/17jdqEQH0--zRF8pE3iMCYQTtuKyZ0eNk/view?usp=sharing",
+    "https://drive.google.com/file/d/1_hVr3ls9swrZTEvBt_DPS1tGq8Uk1_pm/view",
   linkedin: "https://www.linkedin.com/in/kusam-thakur-b05497269/",
   twitter: "https://x.com/KusamThakur",
   insta: "https://www.instagram.com/kusamthakur_433/",
@@ -170,13 +170,13 @@ export const projects = [
       "Express Js",
     ],
     category: "web app",
-    github: "https://github.com/Kusamthakur/job_portal",
+    github: "https://github.com/Kusamthakur/job-potral-MERN",
   }
 ,
   {
     id: 11,
     title: "Chat-App",
-    date: "sep 2024 - sep 2024",
+    date: "sep 2024~ - sep 2024",
     description:
       "chat app project, built using the MERN stack (MongoDB, Express, React, Node.js), enables real-time messaging with features like private chats, group messaging, and user authentication. MongoDB stores user data and chat history, Express serves the backend API, React powers the user interface for a dynamic chat experience, and Node.js handles real-time communication via WebSocket or similar technologies like Socket.IO..",
     image: "https://i.ytimg.com/vi/11eJGs4oBuI/hq720.jpg?sqp=-oaymwEpCNAFEJQDSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIHBACGAYgATgBQAE=&rs=AOn4CLAIHCG5Zj0gly547XR6hibu7AQYdw",
@@ -188,6 +188,6 @@ export const projects = [
       "socket.IO"
     ],
     category: "web app",
-    github: "https://github.com/Kusamthakur/chat-app_using_mern",
+    github: "https://github.com/Kusamthakur/chatAapp-using-MERN",
   }
 ]
