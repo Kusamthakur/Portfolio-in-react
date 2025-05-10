@@ -30,11 +30,11 @@ export const skills = [
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
       {
-        name: "HTML",
+        name: "HTML5",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
       {
-        name: "CSS",
+        name: "CSS3",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
@@ -47,6 +47,11 @@ export const skills = [
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+       
+      },
+       {
+        name: "Tailwind",
+        image: " https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png"
       },
     ],
   },
@@ -122,6 +127,49 @@ export const experiences = [
     ]
    
   },
+
+   {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/v2/D4E0BAQFgCv6yZzuMOQ/company-logo_200_200/B4EZaoghnwH4AI-/0/1746583821709/codveda_technologies_logo?e=2147483647&v=beta&t=M1I-QlgVh9GW2MXPBlqO3VbyoU6_8iDPNw4lci5vmKI",
+    role: "Web development Intern",
+    company: "codveda technologies",
+    date: "May 2025 - Present",
+    desc: "Web Development Intern Selected as a Web Development Intern based on strong technical skills and enthusiasm for web technologies. Contributing to the design, development, and implementation of responsive and user-friendly web applications. Involved in various real-world projects, collaborating with a dynamic team to build innovative digital solutions. Responsibilities include enhancing UI/UX, optimizing performance, and ensuring functional and visually appealing websites aligned with modern development standards.",
+    skills: [
+      "ReactJS",
+      "NodeJs",
+      "Express",
+     "HTML",
+      "CSS",
+      "JavaScript",
+      "MongoDB",
+
+    ]
+   
+  },
+
+ {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQF9mpitS_TcdQ/company-logo_200_200/company-logo_200_200/0/1731693643054?e=2147483647&v=beta&t=4PDEjNUiFvZGPxewKo9fmgJFVTgl-Dx6S2T_K9JcEFE",
+    role: "Mern stack",
+    company: "ELiteTech Intern",
+    date: "May 2025 - November 2025",
+    desc: "Worked as a MERN Stack Developer Intern, gaining hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Responsible for developing scalable frontend interfaces and efficient backend APIs. Collaborated with the development team to implement RESTful services, manage database operations, and deploy applications. Enhanced application performance, fixed bugs, and contributed to real-time features to improve user engagement.",
+    skills: [
+      "ReactJS",
+      "NodeJs",
+      "Express",
+     "HTML",
+      "CSS",
+      "JavaScript",
+      "MongoDB",
+
+    ]
+   
+  },
+
+
+  
 ];
 
 export const education = [
