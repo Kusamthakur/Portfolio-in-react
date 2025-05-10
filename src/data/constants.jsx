@@ -1,5 +1,12 @@
 
 import weatherAppImage from  "../images/weather-app.jpg";
+import Chatapp from  "../images/chat-app.jpg";
+import JobPortal from  "../images/jobportal.jpg";
+import GoSafe360 from  "../images/GoSafe360.jpg";
+
+
+
+
 
 export const Bio = {
   name: "Kusam",
@@ -209,8 +216,7 @@ export const projects = [
     date: "Aug 2024 - Aug 2024",
     description:
       "JobPortal is a web application that connects job seekers with potential employers. JobSeekers can create profiles, upload resumes, and search for job openings. Employers Can create company profiles, post job openings, and search for candidates.",
-    image:
-      "https://i.ytimg.com/vi/NeebP0DFk-A/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIHBACGAYgATgBQAE=&rs=AOn4CLBx87ucMu2wIbLH18eKoHCvN-P_Fw",
+    image:JobPortal,
     tags: [
       "React Js",
       "MongoDB",
@@ -224,10 +230,10 @@ export const projects = [
   {
     id: 11,
     title: "Chat-App",
-    date: "sep 2024~ - sep 2024",
+    date: "sep 2024 - sep 2024",
     description:
       "chat app project, built using the MERN stack (MongoDB, Express, React, Node.js), enables real-time messaging with features like private chats, group messaging, and user authentication. MongoDB stores user data and chat history, Express serves the backend API, React powers the user interface for a dynamic chat experience, and Node.js handles real-time communication via WebSocket or similar technologies like Socket.IO..",
-    image: "https://i.ytimg.com/vi/11eJGs4oBuI/hq720.jpg?sqp=-oaymwEpCNAFEJQDSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIHBACGAYgATgBQAE=&rs=AOn4CLAIHCG5Zj0gly547XR6hibu7AQYdw",
+    image: Chatapp,
     tags: [
       "React Js",
       "MongoDB",
@@ -252,5 +258,22 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Kusamthakur/Weather-App",
     liveLink : "https://kusamthakur.github.io/Weather-App/"
+  },
+  {
+    id: 12,
+    title: "GoSafe360",
+    date: "March 2025 - March 2025",
+    description:
+      "A safety management web app enabling real-time incident reporting, location tracking, and emergency alerts. Features include user authentication, admin dashboard, and responsive UI built with React, Node.js, Express, and MongoDB.",
+    image: GoSafe360,
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Node Js",
+      "Express Js",
+      "socket.IO"
+    ],
+    category: "web app",
+    github: "https://github.com/Kusamthakur/GoSafe360"
   }
 ]
