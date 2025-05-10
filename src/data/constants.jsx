@@ -1,5 +1,5 @@
 
-
+import weatherAppImage from "../images/weather-app.png";
 
 export const Bio = {
   name: "Kusam",
@@ -110,7 +110,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://novemcontrols.com/wp-content/uploads/2023/09/novem_controls_logo_new_style-removebg-preview-1.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxYEX-RM0yLtaLkJt2UTi1JXwhklq_yy_Qg&s",
     role: "Mern stack",
     company: "novem control",
     date: "June 2024 - july 2024",
@@ -237,5 +237,20 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Kusamthakur/chatAapp-using-MERN",
+  },
+
+  {
+    id: 12,
+    title: "Weather-App",
+    date: "june 2024 - june 2024",
+    description:
+      "🌦️ Weather App – Real-Time Weather Forecast This Weather App allows users to: Real-time data fetching , Responsive and visually appealing UI , City-based weather forecast , Current local time display",
+    image: weatherAppImage,
+    tags: [
+      "React Js",
+    ],
+    category: "web app",
+    github: "https://github.com/Kusamthakur/Weather-App",
+    liveLink : "https://kusamthakur.github.io/Weather-App/"
   }
 ]
