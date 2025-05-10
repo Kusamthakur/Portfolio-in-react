@@ -1,5 +1,5 @@
 
-import weatherAppImage from "../images/weather-app.png";
+import weatherAppImage from  "../images/weather-app.jpg";
 
 export const Bio = {
   name: "Kusam",
