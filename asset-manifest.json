@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-in-react/static/css/main.58a0c615.css",
-    "main.js": "/Portfolio-in-react/static/js/main.b6213c03.js",
+    "main.js": "/Portfolio-in-react/static/js/main.760d2799.js",
     "static/media/kusamthakur.png": "/Portfolio-in-react/static/media/kusamthakur.40651d07da6bdf170bb4.png",
     "static/media/GoSafe360.jpg": "/Portfolio-in-react/static/media/GoSafe360.d4e7b1c618190c02ce44.jpg",
     "static/media/jobportal.jpg": "/Portfolio-in-react/static/media/jobportal.234f9b9f9b2322acf1f5.jpg",
     "static/media/weather-app.jpg": "/Portfolio-in-react/static/media/weather-app.12d51c500a4c9da1a319.jpg",
     "static/media/chat-app.jpg": "/Portfolio-in-react/static/media/chat-app.d3a908551c9a72237291.jpg",
+    "static/media/todolist.jpg": "/Portfolio-in-react/static/media/todolist.68bc490ddf75ea6b904e.jpg",
     "index.html": "/Portfolio-in-react/index.html",
     "main.58a0c615.css.map": "/Portfolio-in-react/static/css/main.58a0c615.css.map",
-    "main.b6213c03.js.map": "/Portfolio-in-react/static/js/main.b6213c03.js.map"
+    "main.760d2799.js.map": "/Portfolio-in-react/static/js/main.760d2799.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.b6213c03.js"
+    "static/js/main.760d2799.js"
   ]
 }
