@@ -3,6 +3,9 @@ import weatherAppImage from  "../images/weather-app.jpg";
 import Chatapp from  "../images/chat-app.jpg";
 import JobPortal from  "../images/jobportal.jpg";
 import GoSafe360 from  "../images/GoSafe360.jpg";
+import todolist from  "../images/todolist.jpg";
+
+
 
 
 
@@ -282,7 +285,7 @@ export const projects = [
     date: "March 2025 - March 2025",
     description:
       "Built a clean and interactive to-do list web application that allows users to manage daily tasks efficiently. Key features include: Add, edit, mark as complete, or delete tasks. Search functionality to filter tasks in real-time. 'Clear All' button to remove all tasks instantly. User-friendly interface with responsive design. Fully built with vanilla JavaScript, without any frameworks. This project demonstrates my understanding of DOM manipulation, event handling, and UI/UX principles using core web technologies.",
-    image: GoSafe360,
+    image: todolist,
     tags: [
       "html5",
       "css3",
