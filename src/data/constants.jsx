@@ -4,6 +4,7 @@ import Chatapp from  "../images/chat-app.jpg";
 import JobPortal from  "../images/jobportal.jpg";
 import GoSafe360 from  "../images/GoSafe360.jpg";
 import todolist from  "../images/todolist.jpg";
+import Github from  "../images/githubexplorer";
 
 
 
@@ -263,7 +264,7 @@ export const projects = [
     liveLink : "https://kusamthakur.github.io/Weather-App/"
   },
   {
-    id: 12,
+    id: 13,
     title: "GoSafe360",
     date: "March 2025 - March 2025",
     description:
@@ -280,7 +281,7 @@ export const projects = [
     github: "https://github.com/Kusamthakur/GoSafe360"
   },
   {
-    id: 12,
+    id: 14,
     title: "To-Do-List",
     date: "March 2025 - March 2025",
     description:
@@ -294,5 +295,21 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Kusamthakur/To-do-list",
     liveLink : "https://kusamthakur.github.io/To-do-list/"
+  },
+  {
+    id: 15,
+    title: "Git-Hub Explorer",
+    date: "May 2025 - May 2025",
+    description:
+      "GitHub Explorer : GitHub Explorer is a responsive web application that allows users to search for any GitHub username and explore their public profile information and repositories in real-time using the GitHub API.✨ Features : 🔎 Search any GitHub user by username ,🧑‍💼 View profile details: name, bio, location, company, blog, and Twitter, 📊 See GitHub stats like followers, following, and public repositories, 📁 View a scrollable list of public repositories with:,Repository name (with clickable link), Number of forks , Open issues ,Watchers,🖼️ Displays user avatar and GitHub profile link,⚡ Built with React.js and styled using vanilla CSS ,🚀 Tech Stack React.js , GitHub REST API , Vanilla CSS",
+    image: Github,
+    tags: [
+      "React.js",
+      "GitHub REST API",
+      "Vanilla CSS"
+    ],
+    category: "web app",
+    github: "https://github.com/Kusamthakur/Git-Hub-Explorer",
+    liveLink : "https://kusamthakur.github.io/Git-Hub-Explorer/"
   }
 ]
