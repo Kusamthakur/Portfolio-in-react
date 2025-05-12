@@ -4,7 +4,7 @@ import Chatapp from  "../images/chat-app.jpg";
 import JobPortal from  "../images/jobportal.jpg";
 import GoSafe360 from  "../images/GoSafe360.jpg";
 import todolist from  "../images/todolist.jpg";
-import Github from  "../images/githubexplorer";
+import Github from  "../images/githubexplorer.png";
 
 
 
