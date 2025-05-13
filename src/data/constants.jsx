@@ -1,10 +1,11 @@
 
 import weatherAppImage from  "../images/weather-app.jpg";
 import Chatapp from  "../images/chat-app.jpg";
-import JobPortal from  "../images/jobportal.jpg";
+import JobPortal from  "../images/Jobportal.jpg";
 import GoSafe360 from  "../images/GoSafe360.jpg";
 import todolist from  "../images/todolist.jpg";
 import Github from  "../images/githubexplorer.png";
+import TextifyPro from "../images/TextifyPro.png";
 
 
 
@@ -227,7 +228,7 @@ export const projects = [
       "Node Js",
       "Express Js",
     ],
-    category: "web app",
+    category: "Advance",
     github: "https://github.com/Kusamthakur/job-potral-MERN",
   }
 ,
@@ -245,7 +246,7 @@ export const projects = [
       "Express Js",
       "socket.IO"
     ],
-    category: "web app",
+    category: "Advance",
     github: "https://github.com/Kusamthakur/chatAapp-using-MERN",
   },
 
@@ -259,7 +260,7 @@ export const projects = [
     tags: [
       "React Js",
     ],
-    category: "web app",
+    category: "Intermediate",
     github: "https://github.com/Kusamthakur/Weather-App",
     liveLink : "https://kusamthakur.github.io/Weather-App/"
   },
@@ -277,7 +278,7 @@ export const projects = [
       "Express Js",
       "socket.IO"
     ],
-    category: "web app",
+    category: "Advance",
     github: "https://github.com/Kusamthakur/GoSafe360"
   },
   {
@@ -292,7 +293,7 @@ export const projects = [
       "css3",
       "javascript",
     ],
-    category: "web app",
+    category: "Intermediate",
     github: "https://github.com/Kusamthakur/To-do-list",
     liveLink : "https://kusamthakur.github.io/To-do-list/"
   },
@@ -308,8 +309,24 @@ export const projects = [
       "GitHub REST API",
       "Vanilla CSS"
     ],
-    category: "web app",
+    category: "Intermediate",
     github: "https://github.com/Kusamthakur/Git-Hub-Explorer",
     liveLink : "https://kusamthakur.github.io/Git-Hub-Explorer/"
+  },
+  {
+    id: 15,
+    title: "TextifyPro",
+    date: "May 2025 - May 2025",
+    description:
+     "TextMaster is a simple yet powerful text manipulation tool built using vanilla HTML, CSS, and JavaScript. It allows users to interactively transform and manage their text with the following features:🔠 Convert to Uppercase , 🔡 Convert to Lowercase , 🧹 Remove Extra Spaces , ❌ Clear All Text , 🌗 Toggle Dark/Light Theme , ⏰ Live Clock Displayed in Navbar, This project demonstrates DOM manipulation, event handling, real-time updates, and theming using only core web technologies. Ideal for beginners looking to improve their front-end development skills and build interactive UI projects without any libraries or",
+    image: TextifyPro,
+    tags: [
+      "Html",
+      "Css",
+      "JavaScript"
+    ],
+    category: "Basic",
+    github: "https://github.com/Kusamthakur/TextifyPro",
+    liveLink : "https://kusamthakur.github.io/TextifyPro/"
   }
 ]
