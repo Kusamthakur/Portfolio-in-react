@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio-in-react/static/css/main.58a0c615.css",
-    "main.js": "/Portfolio-in-react/static/js/main.0aafb607.js",
+    "main.js": "/Portfolio-in-react/static/js/main.f74b0832.js",
     "static/media/githubexplorer.png": "/Portfolio-in-react/static/media/githubexplorer.9c4c81f630fc1bb03816.png",
     "static/media/TextifyPro.png": "/Portfolio-in-react/static/media/TextifyPro.ca961601a25174a70105.png",
     "static/media/kusamthakur.png": "/Portfolio-in-react/static/media/kusamthakur.40651d07da6bdf170bb4.png",
+    "static/media/taskmanager.png": "/Portfolio-in-react/static/media/taskmanager.f505ffe2f73e08d9708e.png",
     "static/media/GoSafe360.jpg": "/Portfolio-in-react/static/media/GoSafe360.d4e7b1c618190c02ce44.jpg",
     "static/media/Jobportal.jpg": "/Portfolio-in-react/static/media/Jobportal.234f9b9f9b2322acf1f5.jpg",
     "static/media/weather-app.jpg": "/Portfolio-in-react/static/media/weather-app.12d51c500a4c9da1a319.jpg",
@@ -12,10 +13,10 @@
     "static/media/todolist.jpg": "/Portfolio-in-react/static/media/todolist.68bc490ddf75ea6b904e.jpg",
     "index.html": "/Portfolio-in-react/index.html",
     "main.58a0c615.css.map": "/Portfolio-in-react/static/css/main.58a0c615.css.map",
-    "main.0aafb607.js.map": "/Portfolio-in-react/static/js/main.0aafb607.js.map"
+    "main.f74b0832.js.map": "/Portfolio-in-react/static/js/main.f74b0832.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.0aafb607.js"
+    "static/js/main.f74b0832.js"
   ]
 }
