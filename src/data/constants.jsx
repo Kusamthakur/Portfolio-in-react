@@ -6,6 +6,7 @@ import GoSafe360 from  "../images/GoSafe360.jpg";
 import todolist from  "../images/todolist.jpg";
 import Github from  "../images/githubexplorer.png";
 import TextifyPro from "../images/TextifyPro.png";
+import TaskManager from "../images/taskmanager.png";
 
 
 
@@ -335,7 +336,7 @@ export const projects = [
     date: "May 2025 - May 2025",
     description:
      " Just built a Task Manager app using Node.js, Express, and EJS! 🧠 With this project, I explored how to manage tasks by storing them as `.txt` files and implemented full CRUD functionality including: ✅ Creating tasks  📄 Viewing all tasks with previews ✏️ Editing task title and description  🗑️ Deleting tasks🛠️ It uses file-based storage with the `fs` module and a simple UI using EJS templates.",
-    image: TextifyPro,
+    image: TaskManager,
     tags: [
       "Node.js",
       "Express",
