@@ -328,5 +328,21 @@ export const projects = [
     category: "Basic",
     github: "https://github.com/Kusamthakur/TextifyPro",
     liveLink : "https://kusamthakur.github.io/TextifyPro/"
+  },
+  {
+    id: 16,
+    title: "TaskManager",
+    date: "May 2025 - May 2025",
+    description:
+     " Just built a Task Manager app using Node.js, Express, and EJS! 🧠 With this project, I explored how to manage tasks by storing them as `.txt` files and implemented full CRUD functionality including: ✅ Creating tasks  📄 Viewing all tasks with previews ✏️ Editing task title and description  🗑️ Deleting tasks🛠️ It uses file-based storage with the `fs` module and a simple UI using EJS templates.",
+    image: TextifyPro,
+    tags: [
+      "Node.js",
+      "Express",
+       "EJS"
+    ],
+    category: "Intermediate",
+    github: "https://github.com/Kusamthakur/TaskManager",
+    liveLink : "https://taskmanager-j2x8.onrender.com/"
   }
 ]
