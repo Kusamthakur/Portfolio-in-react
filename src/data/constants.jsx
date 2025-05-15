@@ -7,6 +7,7 @@ import todolist from  "../images/todolist.jpg";
 import Github from  "../images/githubexplorer.png";
 import TextifyPro from "../images/TextifyPro.png";
 import TaskManager from "../images/taskmanager.png";
+import tictactoe from "../images/tic-tac-toe.png"
 
 
 
@@ -352,7 +353,7 @@ export const projects = [
     date: "May 2025 - May 2025",
     description:
      " A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Play against a friend in a 3x3 grid and enjoy the classic Xs and Os!",
-    image: "https://private-user-images.githubusercontent.com/163168409/443975052-770bd341-24db-4973-a351-1b8d531ede4b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyOTE5NjMsIm5iZiI6MTc0NzI5MTY2MywicGF0aCI6Ii8xNjMxNjg0MDkvNDQzOTc1MDUyLTc3MGJkMzQxLTI0ZGItNDk3My1hMzUxLTFiOGQ1MzFlZGU0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNVQwNjQ3NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOGVkYmMwNDYzNjkwYWNlZTgwYzgyNDUzNWZmMjAzMDVkNDU2ZmJiZWI0YmNjNWQ4ZTgwM2RjNzZmYTk5NDYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.m0YedKbUbvgLrcvIQ7fcHhh-8p6u9WCkjXWmbMa5iVg",
+    image: tictactoe,
     tags: [
       "Html5",
       "Css3",
