@@ -8,6 +8,7 @@ import Github from  "../images/githubexplorer.png";
 import TextifyPro from "../images/TextifyPro.png";
 import TaskManager from "../images/taskmanager.png";
 import tictactoe from "../images/tic-tac-toe.png"
+import Calculator from "../images/Calculator.png"
 
 
 
@@ -369,7 +370,7 @@ export const projects = [
     date: "May 2025 - May 2025",
     description:
      " A simple and responsive calculator built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division.",
-    image: tictactoe,
+    image: Calculator,
     tags: [
       "Html5",
       "Css3",
