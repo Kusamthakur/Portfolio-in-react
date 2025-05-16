@@ -362,6 +362,22 @@ export const projects = [
     category: "Basic",
     github: "https://github.com/Kusamthakur/Tic-Tac-Toe",
     liveLink : "https://kusamthakur.github.io/Tic-Tac-toe/"
+  },
+  {
+    id: 18,
+    title: "Calculater",
+    date: "May 2025 - May 2025",
+    description:
+     " A simple and responsive calculator built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division.",
+    image: tictactoe,
+    tags: [
+      "Html5",
+      "Css3",
+       "JavaScript"
+    ],
+    category: "Basic",
+    github: "https://github.com/Kusamthakur/Calculator",
+    liveLink : "https://kusamthakur.github.io/Calculator/"
   }
 
 ]
