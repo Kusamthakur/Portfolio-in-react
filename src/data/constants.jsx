@@ -8,7 +8,8 @@ import Github from  "../images/githubexplorer.png";
 import TextifyPro from "../images/TextifyPro.png";
 import TaskManager from "../images/taskmanager.png";
 import tictactoe from "../images/tic-tac-toe.png"
-import Calculator from "../images/Calculator.png"
+import Calculator from "../images/Calculator.png";
+import Stopwatch from "../images/stopwatch.png";
 
 
 
@@ -380,5 +381,21 @@ export const projects = [
     github: "https://github.com/Kusamthakur/Calculator",
     liveLink : "https://kusamthakur.github.io/Calculator/"
   }
-
+,
+  {
+    id: 19,
+    title: "Stopwatch",
+    date: "May 2025 - May 2025",
+    description:
+     "A simple and responsive stopwatch built with **HTML**, **CSS**, and **JavaScript**. This app allows users to start, stop, and reset a timer with millisecond precision.",
+    image: Stopwatch,
+    tags: [
+      "Html5",
+      "Css3",
+       "JavaScript"
+    ],
+    category: "Basic",
+    github: "https://github.com/Kusamthakur/stopwatch",
+    liveLink : "https://kusamthakur.github.io/stopwatch/"
+  }
 ]
