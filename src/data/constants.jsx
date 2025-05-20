@@ -10,6 +10,7 @@ import TaskManager from "../images/taskmanager.png";
 import tictactoe from "../images/tic-tac-toe.png"
 import Calculator from "../images/Calculator.png";
 import Stopwatch from "../images/stopwatch.png";
+import PasswordGenrator from "../images/passwordgenerator.png";
 
 
 
@@ -397,5 +398,22 @@ export const projects = [
     category: "Basic",
     github: "https://github.com/Kusamthakur/stopwatch",
     liveLink : "https://kusamthakur.github.io/stopwatch/"
+  },
+  {
+    id: 19,
+    title: "Password Generator",
+    date: "May 2025 - May 2025",
+    description:
+     "A sleek and modern password generator built with **React JS**. Easily generate secure and customizable passwords with features like character length control, special character support, copy-to-clipboard functionality, and responsive glassmorphism UI.",
+    image: PasswordGenrator,
+    tags: [
+      "ReactJs",
+      "Html5",
+      "Css3",
+       "JavaScript"
+    ],
+    category: "Basic",
+    github: "https://github.com/Kusamthakur/PasswordGenrator",
+    liveLink : "https://kusamthakur.github.io/PasswordGenrator/"
   }
 ]
