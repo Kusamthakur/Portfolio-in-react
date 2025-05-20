@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio-in-react/static/css/main.58a0c615.css",
-    "main.js": "/Portfolio-in-react/static/js/main.481c2e86.js",
+    "main.js": "/Portfolio-in-react/static/js/main.ede37571.js",
     "static/media/githubexplorer.png": "/Portfolio-in-react/static/media/githubexplorer.9c4c81f630fc1bb03816.png",
+    "static/media/PasswordGenrator.png": "/Portfolio-in-react/static/media/PasswordGenrator.060868f4b43e7cc7ba3d.png",
     "static/media/TextifyPro.png": "/Portfolio-in-react/static/media/TextifyPro.ca961601a25174a70105.png",
     "static/media/Calculator.png": "/Portfolio-in-react/static/media/Calculator.94227e8cc89f2e419770.png",
     "static/media/tic-tac-toe.png": "/Portfolio-in-react/static/media/tic-tac-toe.86194ea78cf005f04207.png",
@@ -16,10 +17,10 @@
     "static/media/stopwatch.png": "/Portfolio-in-react/static/media/stopwatch.e5e2a4f9ea42723f036d.png",
     "index.html": "/Portfolio-in-react/index.html",
     "main.58a0c615.css.map": "/Portfolio-in-react/static/css/main.58a0c615.css.map",
-    "main.481c2e86.js.map": "/Portfolio-in-react/static/js/main.481c2e86.js.map"
+    "main.ede37571.js.map": "/Portfolio-in-react/static/js/main.ede37571.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.481c2e86.js"
+    "static/js/main.ede37571.js"
   ]
 }
