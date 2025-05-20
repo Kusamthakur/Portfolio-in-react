@@ -10,7 +10,7 @@ import TaskManager from "../images/taskmanager.png";
 import tictactoe from "../images/tic-tac-toe.png"
 import Calculator from "../images/Calculator.png";
 import Stopwatch from "../images/stopwatch.png";
-import PasswordGenrator from "../images/passwordgenerator.png";
+import PasswordGenrator from "../images/PasswordGenrator.png";
 
 
 
@@ -400,7 +400,7 @@ export const projects = [
     liveLink : "https://kusamthakur.github.io/stopwatch/"
   },
   {
-    id: 19,
+    id: 29,
     title: "Password Generator",
     date: "May 2025 - May 2025",
     description:
